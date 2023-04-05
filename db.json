@@ -5,9 +5,15 @@
     { "name": "Turn in Homework", "complete": false, "id": 3, "tag": "math" },
     {
       "name": "Finish Laracast video",
-      "complete": false,
+      "complete": true,
       "id": 4,
       "tag": "personal"
+    },
+    {
+      "name": "Create Vuejs project",
+      "complete": true,
+      "id": 5,
+      "tag": "programming"
     }
   ]
 }
